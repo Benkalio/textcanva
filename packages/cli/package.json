@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@cli-note/local-client": "^2.0.0"
+    "@cli-note/local-client": "^1.0.0"
   },
   "devDependencies": {
     "@cli-note/local-api": "^1.0.0",
